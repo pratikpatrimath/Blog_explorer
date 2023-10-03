@@ -1,9 +1,12 @@
 # blog_explorer
-
 A new Flutter project.
+
 # Overview
 Blog Explorer is a Flutter application designed to fetch and display a list of blogs from a RESTful API. Users can explore and engage with the blogs by viewing detailed information, marking blogs as favorites, and navigating between different screens.
 
+# Video_Link
+  https://youtu.be/3LZgFdXiF-Y?si=4r7NWPw4GaRry5jr
+  
 # Requirements
 The following are the main requirements of the Blog Explorer app:
 
